@@ -7,3 +7,8 @@
 #Print the answer.
  
 #Print the number.
+
+n = int(input('raqam: '))
+a = n%2
+print(a)
+
