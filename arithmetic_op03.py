@@ -5,3 +5,9 @@
 #Print the value of the 'answer'
 
 
+n = 12
+a = n%10
+b = n//10
+print(a,b,sep='')
+
+
